@@ -1,0 +1,6 @@
+{
+  "name": "Moodwave",
+  "tagline": "Website for our CSE 323 Semester Project",
+  "body": "# [MoodWave](http://xsrv.mm.cs.sunysb.edu) - [CSE323](http://xsrv.mm.cs.sunysb.edu)\r\n\r\n[MoodWave](xsrv.mm.cs.sunysb.edu) is an application developed by Alan Thomas, Jacqueline Linang and Jean-marie Vargas. It was developed and design to help college students relieve stress and anxiety, before or after classes. This website documents the design, research and implementation process of the application.\r\n\r\n\r\n## Creator (using Bootstrap)\r\n\r\nStart Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).\r\n\r\n* https://twitter.com/davidmillerskt\r\n* https://github.com/davidtmiller\r\n\r\nStart Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).\r\n\r\n## Copyright and License\r\n\r\nCopyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-bare/blob/gh-pages/LICENSE) license.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
